@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Ali Raza Nagra
 
-<!--
-**alirazanagra/alirazanagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Cybersecurity | Cloud Computing | AI
 
-Here are some ideas to get you started:
+🎓 BS Computer Science Student at the University of Agriculture Faisalabad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Passionate about Cybersecurity and Cloud Computing
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌱 Currently learning Mobile App Development and Big Data Analytics
+- 📚 Always improving my programming and problem-solving skills
+- 🎯 Aspiring Software Engineer
+
+## 🛠️ Skills
+
+- C++
+- HTML
+- SQL
+- Git & GitHub
+- Cybersecurity Fundamentals
+- Cloud Computing
+
+## 📜 Certifications
+
+- Google Foundations of Cybersecurity
+- TOEFL iBT
+- French A1
+- Coursera Professional Certificates
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/alirazanagra-ai
+- Email: alinagra1000@gmail.com
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
